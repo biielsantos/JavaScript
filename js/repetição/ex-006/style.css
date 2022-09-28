@@ -1,0 +1,16 @@
+.btn{
+    height: 23px;
+    width: 100px;
+    background-color: brown;
+    color: white;
+    margin-bottom: 20px;
+}
+body{
+    background-color: rgb(97, 97, 97);
+    color: white;
+}
+
+#valorfinal{
+margin-left: 3px;
+}
+

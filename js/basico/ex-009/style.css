@@ -1,0 +1,11 @@
+.btn {
+    height: 100px;
+    width: 200px;
+}
+body {
+    background-color: rgb(158, 158, 158);
+    color: white;
+}
+.divteste{
+    display: flex;
+}
