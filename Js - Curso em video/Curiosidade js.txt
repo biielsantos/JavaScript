@@ -1,0 +1,5 @@
+idinput.value = ''       //faz com que o input zere depois de entrar numa função
+idinput.focus()          //é preciso colocar no final pra que ele so zere depois da função ser concluida
+
+
+
